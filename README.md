@@ -1,2 +1,2 @@
 ## MEMORY CARD GAME - VEU.js
--  > [Explore Our Club!!](https://cogniznce-memberl-ist-opensourcetask-4.netlify.app/)
+-  > [Explore Our Club!!](https://jaswanth1410.github.io/OpenSourceTask-4_MemoryCardGame/)
